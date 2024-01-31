@@ -1,1 +1,1 @@
-print("Vladyslav Karahaiv, AI-2024 group 6")
+print("Vladyslav Karahaiev, AI-2024 group 6")
